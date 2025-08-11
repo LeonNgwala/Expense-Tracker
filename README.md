@@ -30,31 +30,31 @@ Clone the repository:
 ```
 git clone https://github.com/LeonNgwala/Expense-Tracker.git
 cd personal-expense-tracker
-
+```
 
 
 ```
 python -m venv venv
 source venv/bin/activate 
-
+```
 
 Install dependencies:
 
 ```
 pip install -r requirements.txt
-
+```
 
 If requirements.txt is missing, install manually:
 
 ```
 pip install ttkbootstrap matplotlib
-
+```
 
 Run the application:
 
 ```
 python expense_tracker.py
-
+```
 
 ## Usage
 - Enter your expenses via the form at the top (Date, Category, Description, Amount).
