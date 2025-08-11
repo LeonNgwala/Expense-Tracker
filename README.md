@@ -20,8 +20,13 @@ You can add, view, and delete expenses with a clean GUI interface.
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/tkinter-expense-tracker.git
+   git clone https://github.com/LeonNgwalaE/Expense-Tracker.git
    cd tkinter-expense-tracker
+
+----
+
+## Screenshot
+![Expense Tracker Screenshot](screenshot.png)
